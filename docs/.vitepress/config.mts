@@ -15,16 +15,6 @@ export default defineConfig({
       { text: '世界观', link: '/World-Viel/' },
       { text: '角色', link: '/Character/' },
       { text: '画廊', link: '/pictures/LICENSE' },
-      {
-        text: '相关链接',
-        items: [
-          { text: '项目地址', link: 'https://github.com/MiaowCham/World-View_and_Vharacter-Setting' },
-          { text: '哔哩哔哩', link: 'https://space.bilibili.com/485769432' },
-          { text: '联系方式', link: 'https://github.com/MiaowCham/World-View_and_Vharacter-Setting?tab=readme-ov-file#-联系方式' },
-          { text: '作者 QQ', link: 'https://qm.qq.com/q/qjU8Nm72fe' },
-          { text: '许可证', link: 'https://github.com/MiaowCham/World-View_and_Vharacter-Setting/blob/main/LICENSE.md' },
-        ]
-      }
     ],
 
     sidebar: {
@@ -64,9 +54,10 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/MiaowCham/World-View_and_Vharacter-Setting' }
+      { icon: 'github', link: 'https://github.com/MiaowCham/World-View_and_Vharacter-Setting' },
+      { icon: 'qq', link: 'https://qm.qq.com/q/qjU8Nm72fe', ariaLabel: 'QQ' },
+      { icon: 'bilibili', link: 'https://space.bilibili.com/485769432', ariaLabel: '哔哩哔哩' }
     ],
-
     search: {
       provider: 'local',
       options: {
