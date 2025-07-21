@@ -18,7 +18,7 @@ export default defineConfig({
       {
         text: '相关链接',
         items: [
-          { text: '联系方式', link: 'https://github.com/MiaowCham/World-View_and_Vharacter-Setting?tab=readme-ov-file#联系方式' },
+          { text: '联系方式', link: 'https://github.com/MiaowCham/World-View_and_Vharacter-Setting?tab=readme-ov-file#-联系方式' },
           { text: '许可证', link: 'https://github.com/MiaowCham/World-View_and_Vharacter-Setting/blob/main/LICENSE.md' }
         ]
       }
