@@ -21,12 +21,16 @@ hero:
       link: /pictures/LICENSE
 
 features:
-  - title: 🌟 神话与现代交融
+  - icon: 🌟
+    title: 神话与现代交融
     details: 基于现实世界的架空设定，神明与神力并非遥不可及，光与颜色构建的能力体系
-  - title: 🦊 多元种族世界
+  - icon: 🦊
+    title: 多元种族世界
     details: 人类与兽人共存的混搭的和谐社会（简单来说就是福瑞控
-  - title: ⚡ 光之契约者
+  - icon: ⚡
+    title: 光之契约者
     details: 唤光者、白客、光谕使等职业体系，每个人都能在光的世界中找到自己的位置
-  - title: 💭 持续更新
+  - icon: 💭
+    title: 持续更新
     details: 持续更新中！未来将会有更多的设定文本加入
 ---
