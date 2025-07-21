@@ -19,6 +19,9 @@ hero:
     - theme: alt
       text: 画廊
       link: /pictures/LICENSE
+    - theme: alt
+      text: 主站
+      link: 'https://MiaowCham.top/'
 
 features:
   - icon: 🌟

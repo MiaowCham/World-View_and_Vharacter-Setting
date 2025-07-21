@@ -12,6 +12,7 @@ export default defineConfig({
     logo: '/pictures/logo.png',
     
     nav: [
+      { text: '主站', link: 'https://MiaowCham.top/' },
       { text: '世界观', link: '/World-Viel/' },
       { text: '角色', link: '/Character/' },
       { text: '画廊', link: '/pictures/LICENSE' },
