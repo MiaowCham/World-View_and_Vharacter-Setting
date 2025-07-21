@@ -1,68 +1,47 @@
-# Astro Starter Kit: Blog
+# 喵锵的设定及世界观
 
-```sh
-npm create astro@latest -- --template blog
+> 给自己的是兽设写的一些文档……
+
+这是一个基于 VitePress 构建的静态网站，用于展示喵锵的角色设定和世界观内容。
+
+## 🌟 项目特色
+
+- **神话与现代交融** - 基于现实世界的架空设定，神明与神力并非遥不可及
+- **多元种族世界** - 人类与兽人共存的混搭世界
+- **光之契约者** - 独特的能力体系和职业设定
+- **精美的文档展示** - 使用 VitePress 构建的现代化文档网站
+
+## 📁 项目结构
+
+```
+├── LICENSE               # 项目许可证（CC BY-SA）
+├── README.md             # 项目说明
+├── CHANGELOG.md          # 项目更新日志
+├── pictures/             # 图片文件夹
+│   └── LICENSE           # 图片许可证
+└── docs/                 # 文档文件夹
+    ├── index.md          # 首页
+    ├── World-Viel/       # 世界观
+    │   ├── index.md         # 世界观介绍/基础设定
+    │   ├── toponym.md       # 地名设定
+    │   ├── world-setting.md # 细节设定
+    │   ├── world-images.md  # 世界图片
+    │   └── glossary.md      # 名词表
+    └── Character/        # 角色
+        ├── index.md          # 角色索引
+        ├── LICENSE           # 角色设定许可证
+        ├── images/           # 画廊
+        ├── MiaowCham.md      # 喵锵
+        └── Lucian.md         # 曜辰
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 📄 许可证
 
-![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
+详见各个文件夹下带 `LICENSE` 字样的文档
 
-Features:
+## 📞 联系方式
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+- GitHub: [@MiaowCham](https://github.com/MiaowCham)
+- QQ: 2049669820
+- 邮箱: mcyyds1234@outlook.com
