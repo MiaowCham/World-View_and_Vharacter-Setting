@@ -37,7 +37,7 @@ export default defineConfig({
             { text: '角色索引', link: '/Character/' },
             { text: '喵锵', link: '/Character/MiaowCham' },
             { text: '曜辰', link: '/Character/Lucian' },
-            { text: '版权信息', link: '/Character/License'}
+            { text: '版权信息', link: '/Character/LICENSE'}
           ]
         }
       ],
@@ -45,7 +45,7 @@ export default defineConfig({
         {
           text: '画廊',
           items: [
-            { text: '版权信息', link: '/pictures/License'},
+            { text: '版权信息', link: '/pictures/LICENSE'},
             { text: '世界画廊', link: '/pictures/world' },
             { text: '角色画廊', link: '/pictures/character' }
           ]
