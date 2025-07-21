@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "喵锵的设定集",
   description: "给自己的是兽设写的一些文档……",
-  base: '/oc/',
   head: [
     ['link', { rel: 'icon', href: '/pictures/logo.png' }]
   ],
