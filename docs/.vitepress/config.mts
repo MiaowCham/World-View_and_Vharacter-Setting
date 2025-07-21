@@ -18,8 +18,11 @@ export default defineConfig({
       {
         text: '相关链接',
         items: [
+          { text: '项目地址', link: 'https://github.com/MiaowCham/World-View_and_Vharacter-Setting' },
+          { text: '哔哩哔哩', link: 'https://space.bilibili.com/485769432' },
           { text: '联系方式', link: 'https://github.com/MiaowCham/World-View_and_Vharacter-Setting?tab=readme-ov-file#-联系方式' },
-          { text: '许可证', link: 'https://github.com/MiaowCham/World-View_and_Vharacter-Setting/blob/main/LICENSE.md' }
+          { text: '作者 QQ', link: 'https://qm.qq.com/q/qjU8Nm72fe' },
+          { text: '许可证', link: 'https://github.com/MiaowCham/World-View_and_Vharacter-Setting/blob/main/LICENSE.md' },
         ]
       }
     ],

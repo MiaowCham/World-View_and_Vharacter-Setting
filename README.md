@@ -18,5 +18,6 @@
 ## 📞 联系方式
 
 - GitHub: [@MiaowCham](https://github.com/MiaowCham)
+- 哔哩哔哩: [喵锵的设定](https://space.bilibili.com/485769432)
 - QQ: 2049669820
 - 邮箱: mcyyds1234@outlook.com
