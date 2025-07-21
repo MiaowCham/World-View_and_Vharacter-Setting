@@ -11,31 +11,6 @@
 - **光之契约者** - 独特的能力体系和职业设定
 - **精美的文档展示** - 使用 VitePress 构建的现代化文档网站
 
-## 📁 项目结构
-
-```
-├── LICENSE               # 项目许可证（CC BY-SA）
-├── README.md             # 项目说明
-├── CHANGELOG.md          # 项目更新日志
-├── pictures/             # 图片文件夹
-│   └── LICENSE           # 图片许可证
-└── docs/                 # 文档文件夹
-    ├── index.md          # 首页
-    ├── World-Viel/       # 世界观
-    │   ├── index.md         # 世界观介绍/基础设定
-    │   ├── toponym.md       # 地名设定
-    │   ├── world-setting.md # 细节设定
-    │   ├── world-images.md  # 世界图片
-    │   └── glossary.md      # 名词表
-    └── Character/        # 角色
-        ├── index.md          # 角色索引
-        ├── LICENSE           # 角色设定许可证
-        ├── images/           # 画廊
-        ├── MiaowCham.md      # 喵锵
-        └── Lucian.md         # 曜辰
-```
-
-
 ## 📄 许可证
 
 详见各个文件夹下带 `LICENSE` 字样的文档
