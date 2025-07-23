@@ -4,7 +4,7 @@
 > 
 > --喵锵
 
-<div id="back-1"><img src="/pictures/MiaowCham.png" width="70%" alt="喵锵" /><sup><a href="#footnote-1">1</a></sup></div>
+<div id="back-1"><img src="/pictures/MiaowCham.png" width="100%" alt="喵锵" /><sup><a href="#footnote-1">1</a></sup></div>
 
 |   基础信息   |                                                           |
 | ------------ | --------------------------------------------------------- |
@@ -21,7 +21,7 @@
 
 
 
-<div id="back-3">
+<div id="back-4">
 
 **喵锵**是我的首个<secret>也有可能是最后一个</secret><sup><a href="#footnote-4">4</a></sup>设定。最开始只是突发奇想<secret>翻字典翻出来</secret>的网名，后来接触了福瑞，他就自然而然成为了设定的名字
 
