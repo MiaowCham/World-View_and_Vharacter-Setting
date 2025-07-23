@@ -11,6 +11,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/pictures/logo.png',
     
+    // 导航栏
     nav: [
       { text: '主站', link: 'https://MiaowCham.top/' },
       { text: '世界观', link: '/World-Viel/' },
@@ -18,6 +19,7 @@ export default defineConfig({
       { text: '画廊', link: '/pictures/LICENSE' },
     ],
 
+    // 侧边栏
     sidebar: {
       '/World-Viel/': [
         {
@@ -54,6 +56,7 @@ export default defineConfig({
       ]
     },
 
+    // 顶部图标链接
     socialLinks: [
       { icon: 'github', link: 'https://github.com/MiaowCham/World-View_and_Vharacter-Setting' },
       { icon: 'qq', link: 'https://qm.qq.com/q/qjU8Nm72fe', ariaLabel: 'QQ' },
@@ -95,7 +98,7 @@ export default defineConfig({
     },
 
     notFound: {
-      title: '页面未找到',
+      title: '页面被小猫吃掉了',
       quote:
         '当你迷失方向的时候，试着循着光前进！',
       linkLabel: '前往首页',
@@ -108,7 +111,7 @@ export default defineConfig({
     darkModeSwitchTitle: '切换到深色模式',
     skipToContentLabel: '跳转到内容',
     footer: {
-      message: '除非另有说明，否则本站内容依据 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> 许可证进行授权，转载请附上出处链接。',
+      message: '除非另有说明，本站内容依据 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> 许可证进行授权，转载请附上出处链接',
       copyright: '版权信息：Copyright © 2025 MiaowCham'
     }
   }
