@@ -1,9 +1,11 @@
 # 名词表
 
+## 阵营表
+
 <table>
     <thead>
         <tr>
-            <th><strong>阵营</strong></th><th><strong>核心名称</strong></th><th><strong>英文名称</strong></th><th><strong>定位</strong></th>
+            <th><strong></strong></th><th><strong>核心名称</strong></th><th><strong>英文名称</strong></th><th><strong>定位</strong></th>
         </tr>
     </thead>
     <tbody>
@@ -19,6 +21,59 @@
         <tr>
             <td>光律协约</td><td>Luminous Accord</td><td>民间委托中心</td>
         </tr>
+    </tbody>
+</table>
+
+## 神名表
+
+<table>
+    <thead>
+        <tr>
+            <th>名称</th><th>英文名称</th><th>颜色</th><th>神明权能</th><th>神话原型</th><th>备注</th><th>设计思路</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>赫利俄斯</td><td>Heliopolis</td><td>白</td><td>光</td><td>希腊</td>
+            <td>太阳神。万神之父，光明的神</td><td>希腊太阳神</td>
+        </tr>
+        <tr>
+            <td>厄瑞玻斯</td><td>Erodoros</td><td>黑</td><td>暗</td><td>希腊</td>
+            <td></td><td>希腊神话中黑暗的化身</td>
+        </tr>
+        <tr>
+            <td colspan="7"></td>
+        </tr>
+        <tr>
+            <td>欧若拉</td><td>Aurora</td>
+            <td rowspan="2">灰</td><td rowspan="2">晨昏</td><td rowspan="2">希腊</td>
+            <td rowspan="2">晨昏的双子</td><td>黎明的拉丁文音译</td>
+        </tr>
+        <tr>
+            <td>索罗伦</td><td>Solorenn</td>
+            <td>基于黄昏的希腊语修改</td>
+        </tr>
+        <tr>
+            <td colspan="7"></td>
+        </tr>
+        <tr>
+            <td>赤煌</td><td>Chihuang</td><td>红</td><td>火</td><td>中国</td>
+            <td>人称赤煌大帝/赤煌天尊</td><td></td>
+        </tr>
+    </tbody>
+</table>
+
+## 地名表
+
+### 赫利俄波利斯
+
+<table>
+    <thead>
+        <tr>
+            <th><strong>机构</strong></th><th><strong>核心名称</strong></th><th><strong>英文名称</strong></th><th><strong>定位</strong></th>
+        </tr>
+    </thead>
+    <tbody>
         <tr><td rowspan="4"><strong>赫利俄斯市政府</strong></td>
             <td>社会安全保障部</td><td>社安官</td><td>社安部门</td>
         </tr>
@@ -70,9 +125,6 @@
         </tr>
         <tr>
             <td>蚀语者</td><td>Eclipse Whisper</td>
-        </tr>
-        <tr><td rowspan="2"><strong>独立势力</strong></td>
-            <td>悖光客</td><td>Paradoxer</td><td>背离信仰的唤光者，不再为光明效力，不属于埃博斯会</td>
         </tr>
     </tbody>
 </table>
