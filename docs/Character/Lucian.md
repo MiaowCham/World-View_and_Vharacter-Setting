@@ -4,7 +4,7 @@
 > 
 > --曜辰
 
-<div id="back-1"><img src="/pictures/Lucian.png" width="100%" alt="曜辰" /><sup><a href="#footnote-1">1</a></sup></div>
+<div id="back-1"><img src="/pictures/Lucian.png" width="100%" alt="曜辰" data-clickable /><sup><a href="#footnote-1">1</a></sup></div>
 
 |   基础信息   |                                                                        |
 | ------------ | ---------------------------------------------------------------------- |

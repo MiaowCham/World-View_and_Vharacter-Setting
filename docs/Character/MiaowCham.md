@@ -4,7 +4,7 @@
 > 
 > --喵锵
 
-<div id="back-1"><img src="/pictures/MiaowCham.png" width="100%" alt="喵锵" /><sup><a href="#footnote-1">1</a></sup></div>
+<div id="back-1"><img src="/pictures/MiaowCham.png" width="100%" alt="喵锵" data-clickable /><sup><a href="#footnote-1">1</a></sup></div>
 
 |   基础信息   |                                                           |
 | ------------ | --------------------------------------------------------- |
