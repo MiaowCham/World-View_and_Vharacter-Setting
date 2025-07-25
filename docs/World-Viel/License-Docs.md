@@ -1,6 +1,7 @@
 # 世界观文档许可证
 
-Copyright © 2025 MiaowCham  
+### Copyright © 2025 MiaowCham All Rights Reserved.
+
 世界观文档使用 **署名—非商业性使用—禁止演绎 4.0 协议国际版 (CC BY-NC-ND 4.0)** 许可证进行许可。  
 
 完整许可证文本请参见 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 或 [许可文件](https://github.com/MiaowCham/World-View_and_Vharacter-Setting/blob/main/docs/World-Viel/LICENSE)。
