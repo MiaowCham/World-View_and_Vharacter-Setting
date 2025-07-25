@@ -21,9 +21,10 @@ export default defineConfig({
 
     // 侧边栏
     sidebar: {
-      '/World-Viel/': [
+      '/': [
         {
           text: '世界观',
+          collapsed: false,
           items: [
             { text: '世界观介绍', link: '/World-Viel/' },
             { text: '细节设定', link: '/World-Viel/world-setting' },
@@ -31,29 +32,27 @@ export default defineConfig({
             { text: '名词表', link: '/World-Viel/glossary' },
             { text: '许可证', link: '/World-Viel/License-Docs'}
           ]
-        }
-      ],
-      '/Character/': [
+        },
         {
           text: '角色',
+          collapsed: false,
           items: [
             { text: '角色索引', link: '/Character/' },
             { text: '喵锵', link: '/Character/MiaowCham' },
             { text: '曜辰', link: '/Character/Lucian' },
             { text: '版权信息', link: '/Character/LICENSE'}
           ]
-        }
-      ],
-      '/pictures/': [
+        },
         {
           text: '画廊',
+          collapsed: false,
           items: [
             { text: '版权信息', link: '/pictures/LICENSE'},
             { text: '世界画廊', link: '/pictures/world' },
             { text: '角色画廊', link: '/pictures/character' }
           ]
         }
-      ]
+      ],
     },
 
     // 顶部图标链接
@@ -112,7 +111,7 @@ export default defineConfig({
     skipToContentLabel: '跳转到内容',
     footer: {
       message: '除非另有说明，本站内容依据 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> 许可证进行授权，转载请附上出处链接',
-      copyright: '版权信息：Copyright © 2025 MiaowCham'
+      copyright: '版权信息：Copyright © 2025 MiaowCham All Rights Reserved.'
     }
   }
 })
