@@ -6,6 +6,7 @@ import { nextTick, provide, onMounted } from 'vue'
 // Components
 import BackToTop from './components/BackToTop.vue'
 import ImagePreview from './components/ImagePreview.vue'
+import ReloadPrompt from './components/ReloadPrompt.vue'
 
 // 初始化水印
 onMounted(() => {
@@ -64,6 +65,7 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
     </template>
   </DefaultTheme.Layout>
   <ImagePreview />
+  <ReloadPrompt />
 </template>
 
 <style lang="scss">
