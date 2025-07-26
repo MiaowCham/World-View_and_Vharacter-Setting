@@ -1,0 +1,89 @@
+/**
+ * 背景水印样式 - 网格分布
+ * -------------------------------------------------------------------------- */
+
+
+/* 水印容器 */
+
+.watermark {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+    z-index: 9999;
+    overflow: hidden;
+}
+
+
+/* 水印项目样式 */
+
+.watermark-item {
+    position: absolute;
+    font-weight: bold;
+    white-space: nowrap;
+    user-select: none;
+    pointer-events: none;
+    transform-origin: center;
+    transition: opacity 0.3s ease;
+}
+
+
+/* 深色模式下的水印颜色 */
+
+.dark .watermark-item {
+    color: rgba(255, 255, 255, 0.03) !important;
+}
+
+
+/* 响应式设计 */
+
+@media (max-width: 768px) {
+    .watermark::before {
+        font-size: 1.5rem;
+    }
+    .watermark::after {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .watermark::before {
+        font-size: 1rem;
+    }
+    .watermark::after {
+        font-size: 0.8rem;
+    }
+}
+
+
+/* 确保水印不影响页面内容 */
+
+body {
+    position: relative;
+}
+
+
+/* 水印位于最高层级，覆盖所有内容 */
+
+
+/* 水印动画效果（可选） */
+
+@keyframes watermarkFloat {
+    0%,
+    100% {
+        transform: translate(-50%, -50%) rotate(-45deg) translateY(0px);
+    }
+    50% {
+        transform: translate(-50%, -50%) rotate(-45deg) translateY(-10px);
+    }
+}
+
+.watermark::before {
+    animation: watermarkFloat 6s ease-in-out infinite;
+}
+
+.watermark::after {
+    animation: watermarkFloat 8s ease-in-out infinite reverse;
+}
