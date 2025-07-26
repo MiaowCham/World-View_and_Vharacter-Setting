@@ -5,6 +5,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
+    "sass": "^1.89.2",
     "vitepress": "^1.6.3"
   }
 }
