@@ -74,7 +74,8 @@ export default defineConfig({
             resetButtonTitle: '清除查询条件',
             footer: {
               selectText: '选择',
-              navigateText: '切换'
+              navigateText: '切换',
+              closeText: '关闭'
             }
           }
         }
@@ -88,9 +89,7 @@ export default defineConfig({
       prev: '上一页',
       next: '下一页'
     },
-    outline: {
-      label: '页面导航'
-    },
+    outlineTitle: '本页目录',
 
     lastUpdated: {
       text: '最后更新于'
