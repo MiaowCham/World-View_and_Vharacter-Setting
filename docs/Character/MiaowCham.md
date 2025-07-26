@@ -2,32 +2,42 @@
 
 > 啊？
 > 
-> --喵锵
+> <p align="right">——喵锵</p>
 
 <div id="back-1"><img src="/pictures/MiaowCham.png" width="100%" alt="喵锵" data-clickable /><sup><a href="#footnote-1">1</a></sup></div>
 
-|   基础信息   |                                                           |
-| ------------ | --------------------------------------------------------- |
-| 全名         | <secret>麦克拉姆·</secret> 喵锵 <secret>·查斯</secret>  |
-| 英文         | <secret>Macliam</secret> MiaowCham <secret>Chase</secret> |
-| 种族         |<div id="back-2">龙猫<sup><a href="#footnote-2">2</a></sup></div>                |
-| 品种         | <se>［保密涂抹］</se>                                     |
-| 性别         | 男 <secret>或者说公？</secret>                            |
-| 生日         | 1月13日                                                   |
-| 年龄         | <se>［保密涂抹］</se>                                     |
-| MBTI         | INFP-T (调停者)                                           |
-| 职业/属性    | <div id="back-3">白客<sup><a href="#footnote-3">3</a></sup></div>                |
-| 现实国籍映射 | 澳大利亚                                                  |
+| 基础信息  |                                                                   |
+| --------- | ----------------------------------------------------------------- |
+| 全名      | <secret>麦克拉姆·</secret> 喵锵 <secret>·查斯</secret>          |
+| 英文      | <secret>Macliam</secret> MiaowCham <secret>Chase</secret>         |
+| 种族      | <div id="back-2">龙猫<sup><a href="#footnote-2">2</a></sup></div> |
+| 品种      | <se>［保密涂抹］</se>                                             |
+| 性别      | 男 <secret>或者说公？</secret>                                    |
+| 生日      | 1月13日                                                           |
+| 年龄      | <se>［保密涂抹］</se>                                             |
+| MBTI      | INFP-T (调停者)                                                   |
+| 职业/属性 | <div id="back-3">白客<sup><a href="#footnote-3">3</a></sup></div> |
+| 地理信息  | 来自奥赫提亚的赫利俄波利斯，现居辰瑝江州                          |
 
-
+喵锵，来着奥赫提亚的赫利俄波利斯，现居辰瑝江州市，和曜辰是室友。个人身世极其神秘，关于他的信息都有刻意的消除痕迹。
 
 <div id="back-4">
 
-**喵锵**是我的首个<secret>也有可能是最后一个</secret><sup><a href="#footnote-4">4</a></sup>设定。最开始只是突发奇想<secret>翻字典翻出来</secret>的网名，后来接触了福瑞，他就自然而然成为了设定的名字
+发生了上次的那么大的事情之后，喵锵暂时离开了雾且杂物所<sup><a href="#footnote-4">4</a></sup>，只身前往辰瑝。他对外都是宣称自己是前去搞业务拓展，但似乎有消息称喵锵在离开前与市长有过碰面。谁知道呢？
+
+</div>
+
+## 说明
+
+::: details 点击展开说明
+<div id="back-5">
+
+**喵锵**是我的首个<secret>也有可能是最后一个</secret><sup><a href="#footnote-5">5</a></sup>设定。最开始只是突发奇想<secret>翻字典翻出来</secret>的网名，后来接触了福瑞，他就自然而然成为了设定的名字
 
 </div>
 
 **一般情况下**"喵锵"就是我的自设<secret>简单来说就是完全代指我自己</secret>，在该设定未说明的地方默认和我本人相同
+:::
 
 ## 重要世界观背景
 
@@ -35,7 +45,7 @@
 
 ## 外观设定
 
-::: details 点击展开
+<details>
 
 ### 面部花色主要分三部分
 * 下半部分呈三角形，是和头发差不多的浅灰色`(白色也没问题)`。三角形顶点在鼻子上方
@@ -66,11 +76,11 @@
 围巾（橙色）或项圈或耳机
 主要穿着/常服：白色工装外套
 
-:::
+</details>
 
 ## 形态
 
-::: details 点击展开
+<details>
 
 <secret>因为我对战术造型比较感兴趣</secret>
 因为我觉得把`尼龙、魔法和福瑞`结合在一起很有意思，所以喵锵有两种形态。
@@ -79,20 +89,20 @@
 
 > 因为太碍事了，<secret>但装X的情况除外</secret>
 > 
-> --喵锵
+> <p align="right">——喵锵</p>
 
 日常穿着为白色工装外套<secret>或干脆不穿衣服</secret>。
 该形态下喵锵主要使用法术攻击。
 ### 战术形态
 > <secret>有战术的</secret>
 > 
-> --不知名fps游戏开发组iw
+> <p align="right">——不知名fps游戏开发组iw</p>
 
 近似人类的比例和体型，主要是为了穿戴战术装备。
 本身有猫耳朵这点就已经很麻烦了，所以这种形态下连角都不要了。
 该形态下主要以枪械作为主要输出手段，有必要情况下还是会使用魔法。
 
-:::
+</details>
 
 ---
 
@@ -100,5 +110,7 @@
 <div id="footnote-1"><p style="font-size: 12px;">1. 设定图创作者：B站 <a href="https://b23.tv/XjFT7tj">@就要叫无序</a> <sup><a href="#back-1">↩︎</a></sup></p></div>
 <div id="footnote-2"><p style="font-size: 12px;">2. 龙猫，指龙和猫杂交的产物，同时拥有龙和猫的特征。喵锵的外观上主要以猫的特征为主。 <sup><a href="#back-2">↩︎</a></sup></p></div>
 <div id="footnote-3"><p style="font-size: 12px;">3. 详见 <a href="/World-Viel/glossary#名词表">世界观</a> <sup><a href="#back-3">↩︎</a></sup></p></div>
-<div id="footnote-4"><p style="font-size: 12px;">4. 现在不是了 <sup><a href="#back-4">↩︎</a></sup></p></div>
+<div id="footnote-4"><p style="font-size: 12px;">4. 暂定名 <sup><a href="#back-4">↩︎</a></sup></p></div>
+<link rel="stylesheet" href="../.vitepress/theme/secret.css">
+<div id="footnote-5"><p style="font-size: 12px;">5. 现在不是了 <sup><a href="#back-5">↩︎</a></sup></p></div>
 <link rel="stylesheet" href="../.vitepress/theme/secret.css">

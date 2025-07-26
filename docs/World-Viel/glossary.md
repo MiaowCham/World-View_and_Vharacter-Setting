@@ -9,7 +9,7 @@
         </tr>
     </thead>
     <tbody>
-        <tr><td rowspan="4"><strong>职业体系</strong></td>
+        <tr><td rowspan="5"><strong>职业体系</strong></td>
             <td>光能者/唤光者</td><td>Luminous</td><td>光之契约者</td>
         </tr>
         <tr>
@@ -20,6 +20,9 @@
         </tr>
         <tr>
             <td>光律协约</td><td>Luminous Accord</td><td>民间委托中心</td>
+        </tr>
+        <tr>
+            <td>神圣事物管理部</td><td>D.S.T.M.</td><td>朝圣相关管理部门，隶属各地区政府</td>
         </tr>
     </tbody>
 </table>
@@ -74,11 +77,8 @@
         </tr>
     </thead>
     <tbody>
-        <tr><td rowspan="4"><strong>赫利俄斯市政府</strong></td>
+        <tr><td rowspan="3"><strong>赫利俄斯市政府</strong></td>
             <td>社会安全保障部</td><td>社安官</td><td>社安部门</td>
-        </tr>
-        <tr>
-            <td>神圣事物管理部</td><td>D.S.T.M.</td><td>朝圣相关管理部门</td>
         </tr>
         <tr>
             <td>光谕使</td><td>Light Oracle</td><td>高阶神职人员，负责传达"光之神谕"</td>
