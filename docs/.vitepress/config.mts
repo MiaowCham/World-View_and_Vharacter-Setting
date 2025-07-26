@@ -2,6 +2,18 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  vite: {
+    css: {
+      preprocessorOptions: {
+        scss: {
+          silenceDeprecations: ['legacy-js-api']
+        },
+        sass: {
+          silenceDeprecations: ['legacy-js-api']
+        }
+      }
+    }
+  },
   title: "喵锵的设定集",
   description: "给自己的是兽设写的一些文档……",
   head: [

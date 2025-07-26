@@ -2,6 +2,15 @@
  * 动态生成网格水印
  */
 
+// 检查是否在浏览器环境中
+if (typeof window === 'undefined') {
+  // SSR环境，导出空对象
+  if (typeof module !== 'undefined' && module.exports) {
+    module.exports = {};
+  }
+} else {
+  // 浏览器环境，正常执行
+
 function createWatermarkGrid() {
   const watermarkContainer = document.querySelector('.watermark');
   if (!watermarkContainer) return;
@@ -97,10 +106,10 @@ if (typeof module !== 'undefined' && module.exports) {
 }
 
 // 页面加载完成后初始化
-if (typeof window !== 'undefined') {
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initWatermark);
-  } else {
-    initWatermark();
-  }
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initWatermark);
+} else {
+  initWatermark();
 }
+
+} // 结束浏览器环境检查
