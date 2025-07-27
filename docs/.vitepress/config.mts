@@ -25,7 +25,7 @@ export default defineConfig({
     
     // 导航栏
     nav: [
-      { text: '主站', link: 'https://MiaowCham.top/' },
+      { text: '返回主站', link: 'https://MiaowCham.top/' },
       { text: '世界观', link: '/World-Viel/' },
       { text: '角色', link: '/Character/' },
       { text: '画廊', link: '/pictures/LICENSE' },
